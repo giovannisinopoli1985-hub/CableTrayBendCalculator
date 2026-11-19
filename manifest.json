@@ -1,0 +1,18 @@
+
+{
+  "name": "Cable Tray Bend Calculator",
+  "short_name": "Cable Tray",
+  "start_url": "/CableTrayBendCalculator/",
+  "scope": "/CableTrayBendCalculator/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#153d5c",
+  "icons": [
+    {
+      "src": "Calcolatore%20Curve%20Passerelle%2090%C2%B0.png",
+      "sizes": "any",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
